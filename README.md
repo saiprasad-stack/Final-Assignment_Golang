@@ -31,6 +31,9 @@
 - Slab-wise progressive calculation
 
 ---
+<img width="1786" height="755" alt="image" src="https://github.com/user-attachments/assets/89266604-f03d-4be2-a696-584bd24b935c" />
+<img width="1490" height="884" alt="image" src="https://github.com/user-attachments/assets/2eb10607-ecc0-45f2-b363-c16b4b066bc8" />
+
 
 ## ⚙️ Setup
 
@@ -40,7 +43,6 @@ cd backend
 go mod tidy
 go run main.go
 
-<img width="1641" height="771" alt="image" src="https://github.com/user-attachments/assets/cb5473c4-c620-4a1e-964f-291fcc6f7814" />
-<img width="1507" height="758" alt="image" src="https://github.com/user-attachments/assets/8f228f27-ceba-41bc-ad28-0c81e76c45fe" />
+
 
 
